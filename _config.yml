@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "팰릭스 메디노트" # "Site Title"
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "fellix85" # "Your Name"
+name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://fellix85.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
